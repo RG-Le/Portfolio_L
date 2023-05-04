@@ -1,0 +1,128 @@
+body
+{
+	background-color: darkblue;
+}
+header
+{
+	background: url('wlp.jpg');
+	color: black;
+	padding: 10px;
+	background-repeat: no-repeat;
+	background-size: cover;
+	border: solid;
+	border-color: skyblue;
+
+
+	
+}
+.intro
+{
+	color: white;
+	font-family: cursive;
+}
+footer
+{
+	background: url('wlp.jpg');
+	color: white;
+	padding: 10px;
+	background-repeat: no-repeat;
+	background-size: cover;
+	border: solid;
+	border-color: skyblue;
+
+}
+.interest_field
+{
+	background-color: darkblue;
+	color: white;
+	padding: 10px;
+	
+	;
+}
+.Skills
+{
+	background-color: darkblue;
+	color: white;
+	padding: 10px;
+	
+	
+}
+.skill
+{
+	background-color: darkblue;
+	color: yellow;
+
+	text-align: center;
+	border: solid;
+	border-radius: 10px;
+	font-family: cursive;
+
+}
+.skill:hover
+{
+	background-color: yellow;
+	color: black;
+	text-align: center;
+	border-radius: 10px;
+	border: solid;
+	font-family: cursive;
+}
+.resume
+{
+	background-color: black;
+	padding: 10px;
+	border-radius: 500px;
+	text-decoration: none;
+}
+a
+{
+	text-decoration: none;
+}
+h1
+{
+	font-family: cursive;
+}
+
+h2
+{
+	font-family: cursive;
+}
+h3
+{
+	font-family: cursive;
+}
+h4
+{
+	font-family: cursive;
+}
+h5
+{
+	font-family: cursive;
+}
+h6
+{
+	font-family: cursive;
+}
+.images
+{
+	height: 10px;
+	width: 10px;
+}
+div
+{
+	margin-left: 2px;
+}
+.connection
+{
+	margin: 10px;
+}
+a
+{
+	color: skyblue;
+	font-family: cursive;
+}
+a:hover
+{
+	color: yellow;
+	font-family: cursive;
+}
